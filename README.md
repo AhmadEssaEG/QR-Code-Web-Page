@@ -1,10 +1,10 @@
-#Simple QR code page
+# Simple QR code page
 
 I Used [HTML , CSS]
 
-#Desktop
+# Desktop
 
 <img src="/design/desktop-design.jpg" >
 
-#Mobile
+# Mobile
 <img src="/design/mobile-design.jpg" >
